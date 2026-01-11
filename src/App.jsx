@@ -76,7 +76,7 @@ const App = () => {
       
       <header>
         
-        <img src='./hero-img.png' alt='Hero banner'/>
+        <img src='/hero-bg.png' alt='Hero banner'/>
         
         <h1>
         Find <span className="text-gradient">Movies</span> you will enjoy without the hassle. 
